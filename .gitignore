@@ -1,0 +1,15 @@
+# === 빌드/의존성 (용량 크고 사내 jar 포함 위험) ===
+**/target/
+**/lib/
+**/lib2/
+
+# === 평문 시크릿 · 암호화 결과 (절대 커밋 금지) ===
+**/files/*.properties
+**/result.yaml
+**/기록/
+*.csv
+
+# === IDE ===
+.vscode/
+.idea/
+*.iml
