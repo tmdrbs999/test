@@ -7,6 +7,8 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
+/////변경사항ㅇ아앙아아아앙
+
 // 위키 "아래 코드 실행" 원문 그대로.
 // files/*.properties 의 각 KEY=값 을 암호화하여 result.yaml 로 출력한다.
 public class ENC {
